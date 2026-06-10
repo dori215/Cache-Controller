@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/alex_/Desktop/cache controller
+vcache_controller
+!s110 1781104611
+!i10b 1
+!s100 GiTdX`^i6d4IbHLMlW>B80
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICA<WFFU9:U:YX6H=@VTcY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller
+w1781104553
+8C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_controller.v
+FC:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_controller.v
+!i122 0
+L0 3 250
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1781104611.000000
+!s107 C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_controller.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcache_tb
+!s110 1781104612
+!i10b 1
+!s100 3gXYW6OdmO]HgQLTIf_1>0
+R0
+IoWLD85on6_PDd3J5jZXGO3
+R1
+R2
+w1781103511
+8C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_tb.v
+FC:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_tb.v
+!i122 1
+L0 3 146
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/alex_/Documents/GitHub/Proiecte/cn/Cache-Controller/cache_tb.v|
+!i113 1
+R5
+R6
