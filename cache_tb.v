@@ -133,6 +133,15 @@ module cache_tb;
         #80; // Asteptam evacuarea si noua alocare
 
         $display("--- SIMULARE FINALIZATA ---");
+       // TEST 6: WRITE MISS (Scriem la o adresa noua - Index 1)
+       $display("Test 6: Write Miss la adresa 0x00000040");
+        address = 32'h0000_0040; // O adresa care pica pe Indexul 1 (complet gol)
+        write_data_word = 32'hFACEB00C;
+        write = 1;
+        wait(hit || miss);
+        #10;
+        write = 0;
+        #40; // Asteptam alocarea din RAM si scrierea cuvantului
         $stop; // Opreste simularea in ModelSim
     end
 
