@@ -248,5 +248,4 @@ module cache_controller (
             default: next_state = IDLE;
         endcase
     end
-
 endmodule
